@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "tailwind-scrollbar": "^2.0.1"
+  },
+  "dependencies": {
+    "@fvilers/disable-react-devtools": "^1.3.0"
+  }
+}
